@@ -1,1 +1,1 @@
-console.log(Hello from JS World - v1.0);
+console.log(Hello from JS World - v1.1);
